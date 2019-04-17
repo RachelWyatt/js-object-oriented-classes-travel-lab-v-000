@@ -10,7 +10,7 @@ class Driver {
   }
 }
 class Route {
-  const beginningLocation(vertical, horizontal) {
+  const beginningLocation = {
     
   }
   constructor (beginningLocation, endingLocation){
