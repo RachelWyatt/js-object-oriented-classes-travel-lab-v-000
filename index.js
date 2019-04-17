@@ -5,6 +5,6 @@ class Driver {
   }
   
   yearsExperienceFromBeginningOf(year) {
-    
+    year - startDate.year
   }
 }
