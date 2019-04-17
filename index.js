@@ -10,13 +10,12 @@ class Driver {
   }
 }
 class Route {
+  const beginningLocation(vertical, horizontal) {
+    
+  }
   constructor (beginningLocation, endingLocation){
- 
+    
   }
   blocksTravelled () {
     
   }
-     function beginningLocation (horizonal, vertical) {
-      this.horizonal = horizonal
-    }
-}
