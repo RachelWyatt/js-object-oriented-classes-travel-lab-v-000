@@ -6,6 +6,14 @@ class Driver {
   
   yearsExperienceFromBeginningOf(year) {
     let startYear = this.startDate.getFullYear();
-    return (year - startYear -1);
+    return (year - startYear - 1);
+  }
+}
+class Route {
+  constructor (beginningLocation, endingLocation){
+    
+  }
+  blocksTravelled () {
+    
   }
 }
