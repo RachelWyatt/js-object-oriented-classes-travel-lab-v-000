@@ -1,6 +1,6 @@
-class Driver {
+class Driver extends Date {
   constructor(name, startDate){
     this.name = name;
-    this.startDate = newDate (startDate + "Z");
+    this.startDate = new Date (startDate + "Z");
   }
 }
